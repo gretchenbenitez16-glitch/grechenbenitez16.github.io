@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jose "Tony" Velazquez
+N:Velazquez;Jose \"Tony\";;;
+item1.EMAIL;TYPE=INTERNET:Jose.A.Velazquez@dea.gov
+item1.X-ABLabel:
+item2.TEL:(787) 475-4504
+item2.X-ABLabel:
+ORG:DEA
+TITLE:Public Affairs Specialist
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzFPHl7HJYWT9ffwQ1f0Jd
+ NzRHXpqXO0ncN1uPvxDaddaVXhNKwK
+CATEGORIES:myContacts
+END:VCARD
